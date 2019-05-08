@@ -38,7 +38,7 @@ Andy Cruz Paredez Mendez
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
-<plugin name="cordova-plugin-whitelist" souce="npm"/>
+<plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
 
